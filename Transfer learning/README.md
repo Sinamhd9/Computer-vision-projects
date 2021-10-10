@@ -5,7 +5,7 @@ First, I evaluate the model without training the unfrozen weights. Then, I train
 
 ## Overview
  <p align="center">
-       <img src="./img/transfer_image.png" alt="Overview" width="80%">
+       <img src="./img/transfer_image.JPG" alt="Overview" width="80%">
       </p>
 
 
