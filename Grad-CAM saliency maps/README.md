@@ -4,6 +4,6 @@ In this project, I implemented Grad-CAM algorithm from scratch. I used a pretrai
 
 ## Overview
  <p align="center">
-       <img src="./img/gradcam_image.png" alt="Overview" width="80%">
+       <img src="./img/gradcam_output.png" alt="Overview" width="80%">
       </p>
 
