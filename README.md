@@ -35,7 +35,13 @@ You can use the link in each project to directly open and run the codes in googl
     </th>
   </tr>
   <tr>
-    
+    <th>
+      <p align="center">
+           <a> <img src="./Transfer%20learning/img/transferModel.png" alt="Overview" width="60%" height="60%"></a>
+           <br>4: Transfer learning
+           <br><a href="./ransfer%20learning" name="transfer_code">(code)</a>
+      </p>
+    </th>    
 
   </tr>
 </table>
@@ -54,4 +60,8 @@ You can use the link in each project to directly open and run the codes in googl
 #### [3 - Gaussian mixture model (GMM) Clustering](GMM)
  - **Summary:** Implemented GMM algorithm. Experimented with different k-values and iterations. Performed image segmentation on some test images.
  - **Keywords:**  GMM, k-means, Image segmentation 
+
+#### [4 - Transfer learning](Transfer%20learning)
+ - **Summary:** Experimented transfer learning with a pretrained CNN (InceptionResNetV2) and a sub-network of it to perform classification on an image dataset. Visualized the filters in the first layer. Implemented image augmentation.
+ - **Keywords:**  Keras, Image augmentation, Transfer learning, Pre-trained network
  
