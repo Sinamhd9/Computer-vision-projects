@@ -8,7 +8,7 @@ Please note that no ready to use OpenCV function is used except for loading and 
 ## Overview
  <p align="center">
        <img src="./img/segmented_image_gmm.png" alt="Overview" width="80%">
-        <img src="./img/anim_gnn.gif" alt="Overview" width="80%">
+        <img src="./img/gmm_anim.gif" alt="Overview" width="80%">
 
       </p>
 
