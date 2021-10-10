@@ -29,7 +29,7 @@ You can use the link in each project to directly open and run the codes in googl
       </th>
         <th><p align="center">
            <a><img src="./GMM/img/segmented_image_gmm.png" alt="Overview" width="60%" height="60%"></a>
-           <a><img src="./GMM/img/gmm_anim.gif" alt="Overview" width="60%" height="60%"></a>
+           <a><img src="./GMM/img/gmm_anim.gif" alt="Overview" width="30%" height="30%"></a>
            <br>2: Image segmentation with k-means
            <br><a href="./GMM/" name="GMM_code">(code)</a>
         </p>
