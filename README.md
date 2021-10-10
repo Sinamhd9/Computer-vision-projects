@@ -42,6 +42,15 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Transfer%20learning" name="transfer_code">(code)</a>
       </p>
     </th>    
+  
+  <th>
+      <p align="center">
+           <a> <img src="./Grad-CAM%20saliency%20maps/img/gradcam_output.png" alt="Overview" width="80%" height="80%"></a>
+           <br>5: Grad-CAM saliency maps
+           <br><a href="./Grad-CAM%20saliency%20maps" name="gradcam_code">(code)</a>
+      </p>
+    </th>    
+
 
   </tr>
 </table>
@@ -63,5 +72,9 @@ You can use the link in each project to directly open and run the codes in googl
 
 #### [4 - Transfer learning](Transfer%20learning)
  - **Summary:** Experimented transfer learning with a pretrained CNN (InceptionResNetV2) and a sub-network of it to perform classification on an image dataset. Visualized the filters in the first layer. Implemented image augmentation.
- - **Keywords:**  Keras, Image augmentation, Transfer learning, Pre-trained network
+ - **Keywords:**  Keras, Image augmentation, Transfer learning, Pre-trained network, CNN
+
+#### [5 - Class-discriminative saliency maps using Grad-CAM](Grad-CAM%20saliency%20maps)
+ - **Summary:** Implemented the original Grad-CAM paper with a pretrained VGG-16 model. Visualized the results and their respective predicted class on the different test cases with a short discussion. 
+ - **Keywords:**  Keras, Gradient flow, Saliency maps, Grad-CAM, CNN
  
