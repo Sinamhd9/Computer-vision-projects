@@ -1,4 +1,4 @@
-# Gclass-discriminative saliency maps using Grad-CAM
+# Class-discriminative saliency maps using Grad-CAM
 
 In this project, I implemented Grad-CAM algorithm from scratch. I used a pretrained VGG-16 model.  
 
