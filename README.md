@@ -25,7 +25,6 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Image%20segmentation%20with%20k-means/" name="kmeans_code">(code)</a>
         </p>
     </th>
-  </tr>
       </th>
         <th><p align="center">
            <a><img src="./GMM/img/segmented_image_gmm.png" alt="Overview" width="60%" height="60%"></a>
