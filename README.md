@@ -37,7 +37,7 @@ You can use the link in each project to directly open and run the codes in googl
   <tr>
     <th>
       <p align="center">
-           <a> <img src="./Transfer%20learning/img/transferModel.png" alt="Overview" width="60%" height="60%"></a>
+           <a> <img src="./Transfer%20learning/img/transfer_image.jpg" alt="Overview" width="60%" height="60%"></a>
            <br>4: Transfer learning
            <br><a href="./Transfer%20learning" name="transfer_code">(code)</a>
       </p>
