@@ -2,7 +2,7 @@
 
 In this project, I implemented Grad-CAM algorithm from scratch. I used a pretrained VGG-16 model.  
 
-Gradient-weighted Class Activation Mapping (Grad-CAM), uses the gradients of any target class flowing into the final convolutional layer to produce a coarse localization map highlighting the important regions in the image for predicting the class. Reference
+Gradient-weighted Class Activation Mapping (Grad-CAM), uses the gradients of any target class flowing into the final convolutional layer to produce a coarse localization map highlighting the important regions in the image for predicting the class. [Reference](https://arxiv.org/pdf/1610.02391.pdf)
 
 ## Overview
  <p align="center">
