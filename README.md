@@ -50,7 +50,7 @@ You can use the link in each project to directly open and run the codes in googl
     </th>    
     <th>
       <p align="center">
-           <a> <img src="./Generative%20adversarial%20networks/img/cnngan.JPG" alt="Overview" width="80%" height="80%"></a>
+           <a> <img src="./Generative%20adversarial%20networks/img/GAN_CNN.png" alt="Overview" width="80%" height="80%"></a>
            <br>6: Generative adversarial networks (GAN)
            <br><a href="./Generative%20adversarial%20networks" name="gan_code">(code)</a>
       </p>
