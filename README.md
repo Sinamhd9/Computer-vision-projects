@@ -42,7 +42,6 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Transfer%20learning" name="transfer_code">(code)</a>
       </p>
     </th>    
-  
   <th>
       <p align="center">
            <a> <img src="./Grad-CAM%20saliency%20maps/img/gradcam_output.png" alt="Overview" width="80%" height="80%"></a>
@@ -50,7 +49,6 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Grad-CAM%20saliency%20maps" name="gradcam_code">(code)</a>
       </p>
     </th>    
-  
     <th>
       <p align="center">
            <a> <img src="./Generative%20adversarial%20networks/img/CNN_GAN.png" alt="Overview" width="60%" height="60%"></a>
@@ -58,7 +56,6 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Generative%20adversarial%20networks" name="gan_code">(code)</a>
       </p>
     </th>    
-
   </tr>
 </table>
 
