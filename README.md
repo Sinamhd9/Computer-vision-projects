@@ -50,7 +50,14 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Grad-CAM%20saliency%20maps" name="gradcam_code">(code)</a>
       </p>
     </th>    
-
+  
+    <th>
+      <p align="center">
+           <a> <img src="./Generative%20adversarial%20networks/img/CNN_GAN.png" alt="Overview" width="80%" height="80%"></a>
+           <br>6: Generative adversarial networks (GAN)
+           <br><a href="./Generative%20adversarial%20networks" name="gan_code">(code)</a>
+      </p>
+    </th>    
 
   </tr>
 </table>
@@ -78,3 +85,6 @@ You can use the link in each project to directly open and run the codes in googl
  - **Summary:** Implemented the original Grad-CAM paper with a pretrained VGG-16 model. Visualized the results and their respective predicted class on the different test cases with a short discussion. 
  - **Keywords:**  Keras, Gradient flow, Saliency maps, Grad-CAM, CNN
  
+ #### [6 - Generative adversarial networks (GAN)](Generative%20adversarial%20networks)
+ - **Summary:** Built two GAN models, one with Dense layers and the other with convolutinal layers and compared their performance on Fashion MNIST data. 
+ - **Keywords:**  Keras, Dense GAN, Convolutional GAN
