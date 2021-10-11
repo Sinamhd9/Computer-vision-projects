@@ -20,7 +20,7 @@ You can use the link in each project to directly open and run the codes in googl
       </p>
     </th>
         <th><p align="center">
-           <a><img src="./Image%20segmentation%20with%20k-means/img/segmented_image.png" alt="Overview" width="40%" height="40%"></a>
+           <a><img src="./Image%20segmentation%20with%20k-means/img/segmented_image.png" alt="Overview" width="80%" height="80%"></a>
            <br>2: Image segmentation with k-means
            <br><a href="./Image%20segmentation%20with%20k-means/" name="kmeans_code">(code)</a>
         </p>
@@ -43,7 +43,7 @@ You can use the link in each project to directly open and run the codes in googl
     </th>    
   <th>
       <p align="center">
-           <a> <img src="./Grad-CAM%20saliency%20maps/img/gradcam_output.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Grad-CAM%20saliency%20maps/img/gradcam_output.png" alt="Overview" width="80%" height="80%"></a>
            <br>5: Grad-CAM saliency maps
            <br><a href="./Grad-CAM%20saliency%20maps" name="gradcam_code">(code)</a>
       </p>
@@ -56,6 +56,10 @@ You can use the link in each project to directly open and run the codes in googl
       </p>
     </th>    
   </tr>
+  <tr>
+    </tr>
+ 
+  
 </table>
 
 --- 
