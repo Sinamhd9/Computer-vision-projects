@@ -17,7 +17,7 @@ Please note that no ready to use OpenCV function is used except for SIFT feature
 
 ## Overview
   <p align="center">
-       <img src="./data/im3.JPG" alt="Overview" width="40%">
-       <img src="./data/im4.JPG" alt="Overview" width="40%">
+       <img src="./data/im3.jpg" alt="Overview" width="40%">
+       <img src="./data/im4.jpg" alt="Overview" width="40%">
        <img src="./img/stitched_image.png" alt="Overview" width="80%">
  </p>
