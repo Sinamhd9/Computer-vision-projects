@@ -27,8 +27,8 @@ You can use the link in each project to directly open and run the codes in googl
     </th>
       </th>
         <th><p align="center">
-            <img src="./GMM/img/segmented_image_gmm.png" alt="Overview" width="40%">
-            <img src="./GMM/img/gmm_anim.gif" alt="Overview" width="40%">
+            <img src="./GMM/img/segmented_image_gmm.png" alt="Overview" width="80%">
+            <img src="./GMM/img/gmm_anim.gif" alt="Overview" width="80%">
            <br> 3: Gaussian mixture model (GMM) Clustering
            <br><a href="./GMM/" name="GMM_code">(code)</a>
         </p>
@@ -59,12 +59,10 @@ You can use the link in each project to directly open and run the codes in googl
   </tr>
   <th>
       <p align="center">
-           <a> <img src="./Color%20transfer%20between%20images/data/source3.png" alt="Overview" width="20%" height="80%"></a>
-           <a> <img src="./Color%20transfer%20between%20images/data/target3.png" alt="Overview" width="20%" height="80%"></a>
-  </p>
-           <p align="center">
-           <a> <img src="./Color%20transfer%20between%20images/img/result3_LAB.png" alt="Overview" width="40%" height="80%"></a>
-  </p>
+           <a> <img src="./Color%20transfer%20between%20images/data/source3.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Color%20transfer%20between%20images/data/target3.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Color%20transfer%20between%20images/img/result3_LAB.png" alt="Overview" width="80%" height="80%"></a>
+      </p>
            <br>7: Color transfer between images
            <br><a href="./Color%20transfer%20between%20images" name="colorTransfer_code">(code)</a>
       </p>
