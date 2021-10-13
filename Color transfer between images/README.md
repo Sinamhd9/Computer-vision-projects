@@ -10,10 +10,8 @@ Please note that no ready to use OpenCV function is used except for loading and 
 
 ## Overview
  <div>
-  <p align="left">
+  <p align="center">
        <img src="./data/source2.png" alt="Overview" width="40%">
- </p>
-  <p align="right">
        <img src="./data/target2.png" alt="Overview" width="40%">
  </p>
    <p align="center">
