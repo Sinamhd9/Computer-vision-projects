@@ -10,7 +10,7 @@ You can use the link in each project to directly open and run the codes in googl
 
 ### Projects
 
-<table style="width:50%">
+<table style="width:100%">
   <tr>
     <th>
       <p align="center">
