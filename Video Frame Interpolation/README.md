@@ -12,6 +12,8 @@ The method is described in this [paper](ttps://link.springer.com/content/pdf/10.
   <p align="center">
        <img src="./data/frame0.png" alt="Overview" width="23%">
        <img src="./data/frame1.png" alt="Overview" width="23%">
+  </p>
+  <p align="center">
        <img src="./img/flow.gif" alt="Overview" width="46%">
  </p>
 
