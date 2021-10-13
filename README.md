@@ -61,7 +61,10 @@ You can use the link in each project to directly open and run the codes in googl
       <p align="center">
            <a> <img src="./Color%20transfer%20between%20images/data/source3.png" alt="Overview" width="20%" height="80%"></a>
            <a> <img src="./Color%20transfer%20between%20images/data/target3.png" alt="Overview" width="20%" height="80%"></a>
+  </p>
+           <p align="center">
            <a> <img src="./Color%20transfer%20between%20images/img/result3_LAB.png" alt="Overview" width="40%" height="80%"></a>
+  </p>
            <br>7: Color transfer between images
            <br><a href="./Color%20transfer%20between%20images" name="colorTransfer_code">(code)</a>
       </p>
