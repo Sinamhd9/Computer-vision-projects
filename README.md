@@ -100,6 +100,6 @@ You can use the link in each project to directly open and run the codes in googl
  - **Keywords:**  Keras, Dense GAN, Convolutional GAN
 
  #### [7 - Color transfer between images](Color%20transfer%20between%20images)
- - **Summary:** Built a system based on a famous [https://ieeexplore.ieee.org/abstract/document/946629?casa_token=FLyBjCx_u_wAAAAA:BO-HyyaBH6vwkz7ihawIowcgElHRGECg-DJ_ec1rE2ElH-DzGDhPRBaT5GuFJbHBXNPswMuAuQ](paper) that is able to characterize and transfer color from a source image to the target image. Color transfer is implemented in lαβ, RGB and CIECAM97s color spaces and tested on three test images.
+ - **Summary:** Built a system based on a famous [paper](https://ieeexplore.ieee.org/abstract/document/946629?casa_token=FLyBjCx_u_wAAAAA:BO-HyyaBH6vwkz7ihawIowcgElHRGECg-DJ_ec1rE2ElH-DzGDhPRBaT5GuFJbHBXNPswMuAuQ) that is able to characterize and transfer color from a source image to the target image. Color transfer is implemented in lαβ, RGB and CIECAM97s color spaces and tested on three test images.
  - **Keywords:**  Color science, Color spaces, Color transfer
 
