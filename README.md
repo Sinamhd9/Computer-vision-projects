@@ -80,9 +80,9 @@ You can use the link in each project to directly open and run the codes in googl
     </th>  
      <th>
       <p align="center">
-           <a> <img src="./Video%20Frame%20Interpolation/data/frame0.png" alt="Overview" width="20%" height="20%"></a>
-           <a> <img src="./Video%20Frame%20Interpolation/data/frame1.png" alt="Overview" width="20%" height="20%"></a>
-           <a> <img src="./Video%20Frame%20Interpolation/img/flow.gif" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/data/frame0.png" alt="Overview" width="30%" height="30%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/data/frame1.png" alt="Overview" width="30%" height="30%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/img/flow.gif" alt="Overview" width="60%" height="60%"></a>
       </p>
            <br>9: Video Frame Interpolation
            <br><a href="./Video%20Frame%20Interpolation" name="interp_code">(code)</a>
