@@ -14,7 +14,7 @@ Please note that no ready to use OpenCV function is used except for loading and 
        <img src="./data/source2.png" alt="Overview" width="40%">
  </p>
   <p align="right">
-       <img src="./img/target2.png" alt="Overview" width="40%">
+       <img src="./data/target2.png" alt="Overview" width="40%">
  </p>
    <p align="center">
        <img src="./img/result_LAB.png" alt="Overview" width="80%">
