@@ -10,9 +10,9 @@ The method is described in this [https://link.springer.com/content/pdf/10.1007/s
 
 ## Overview
   <p align="center">
-       <img src="./data/frame0.png" alt="Overview" width="20%">
-       <img src="./data/frame1.png" alt="Overview" width="20%">
-       <img src="./img/flow.gif" alt="Overview" width="40%">
+       <img src="./data/frame0.png" alt="Overview" width="22%">
+       <img src="./data/frame1.png" alt="Overview" width="22%">
+       <img src="./img/flow.gif" alt="Overview" width="44%">
  </p>
 
 The required steps to implement this algorithm are [https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf](Reference paper):
