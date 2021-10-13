@@ -6,7 +6,7 @@ In this project, I am implementing a method to estimate the optical flow between
 
 The goal is to develop a video frame interpolation tool that can double the rate of a low fps video ; for example from 30 to 60. 
 
-The method is described in this [paper](ttps://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf)
+The method is described in this [paper](https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf)
 
 ## Overview
   <p align="center">
