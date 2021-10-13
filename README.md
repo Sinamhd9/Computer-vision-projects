@@ -56,6 +56,16 @@ You can use the link in each project to directly open and run the codes in googl
       </p>
     </th>    
   </tr>
+  <th>
+      <p align="center">
+           <a> <img src="./Color%20transfer%20between%20images/data/source3.png" alt="Overview" width="40%" height="80%"></a>
+           <a> <img src="./Color%20transfer%20between%20images/data/target3.png" alt="Overview" width="40%" height="80%"></a>
+           <a> <img src="./Color%20transfer%20between%20images/img/result3_LAB.png" alt="Overview" width="80%" height="80%"></a>
+           <br>7: Color transfer between images
+           <br><a href="./Color%20transfer%20between%20images" name="colorTransfer_code">(code)</a>
+      </p>
+    </th>  
+  
   <tr>
     </tr>
  
@@ -88,3 +98,8 @@ You can use the link in each project to directly open and run the codes in googl
  #### [6 - Generative adversarial networks (GAN)](Generative%20adversarial%20networks)
  - **Summary:** Built two GAN models, one with Dense layers and the other with convolutinal layers and compared their performance on Fashion MNIST data. 
  - **Keywords:**  Keras, Dense GAN, Convolutional GAN
+
+ #### [7 - Color transfer between images](Color%20transfer%20between%20images)
+ - **Summary:** Built a system based on a famous [https://ieeexplore.ieee.org/abstract/document/946629?casa_token=FLyBjCx_u_wAAAAA:BO-HyyaBH6vwkz7ihawIowcgElHRGECg-DJ_ec1rE2ElH-DzGDhPRBaT5GuFJbHBXNPswMuAuQ](paper) that is able to characterize and transfer color from a source image to the target image. Color transfer is implemented in lαβ, RGB and CIECAM97s color spaces and tested on three test images.
+ - **Keywords:**  Color science, Color spaces, Color transfer
+
