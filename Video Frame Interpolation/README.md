@@ -19,6 +19,6 @@ The required steps to implement this algorithm are [https://link.springer.com/co
 
 - Forward warping flow (from frame0 to frame1) to a position t in the middle of the 2 frames
 - Fill any holes in ut using a simple outside-in strategy
-- Estimate occlusions masks $$O_0(x)$$ and $$O_1(x)$$, where Oi(x) = 1 means pixel x in image Ii is not visible in the
+- Estimate occlusions masks O<sub>0</sub>(x) and O_1(x), where Oi(x) = 1 means pixel x in image Ii is not visible in the
 respective other image.
 - Compute the colors of the interpolated pixels by inverse-warping frame 0 and frame 1 to the postion t based on the forwarded-warped flow iflow at t
