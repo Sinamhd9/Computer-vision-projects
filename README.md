@@ -10,7 +10,7 @@ You can use the link in each project to directly open and run the codes in googl
 
 ### Projects
 
-<table style="width:100%">
+<table style="width:50%">
   <tr>
     <th>
       <p align="center">
@@ -80,7 +80,7 @@ You can use the link in each project to directly open and run the codes in googl
     </th>  
      <th>
       <p align="center">
-           <a> <img src="./Video%20Frame%20Interpolation/img/frame0.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/data/frame0.png" alt="Overview" width="40%" height="40%"></a>
            <a> <img src="./Video%20Frame%20Interpolation/data/frame1.png" alt="Overview" width="40%" height="40%"></a>
            <a> <img src="./Video%20Frame%20Interpolation/img/flow.gif" alt="Overview" width="80%" height="80%"></a>
       </p>
