@@ -57,6 +57,7 @@ You can use the link in each project to directly open and run the codes in googl
       </p>
     </th>    
   </tr>
+   <tr>
   <th>
       <p align="center">
            <a> <img src="./Color%20transfer%20between%20images/data/source3.png" alt="Overview" width="40%" height="40%"></a>
@@ -67,8 +68,16 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Color%20transfer%20between%20images" name="colorTransfer_code">(code)</a>
       </p>
     </th>  
-  
-  <tr>
+      <th>
+      <p align="center">
+           <a> <img src="./Homography-based%20Image%20Stitching/data/im3.jpg" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Homography-based%20Image%20Stitching/data/im4.jpg" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Homography-based%20Image%20Stitching/img/stitched_image.png" alt="Overview" width="80%" height="80%"></a>
+      </p>
+           <br>8: Homography-based Image Stitching
+           <br><a href="./Homography-based%20Image%20Stitching" name="stitch_code">(code)</a>
+      </p>
+    </th>  
     </tr>
  
   
@@ -105,3 +114,6 @@ You can use the link in each project to directly open and run the codes in googl
  - **Summary:** Built a system based on a famous [paper](https://ieeexplore.ieee.org/abstract/document/946629?casa_token=FLyBjCx_u_wAAAAA:BO-HyyaBH6vwkz7ihawIowcgElHRGECg-DJ_ec1rE2ElH-DzGDhPRBaT5GuFJbHBXNPswMuAuQ) that is able to characterize and transfer color from a source image to the target image. Color transfer is implemented in lαβ, RGB and CIECAM97s color spaces and tested on three test images.
  - **Keywords:**  Color science, Color spaces, Color transfer
 
+ #### [8 - Homography-based Image Stitching](Homography-based%20Image%20Stitching)
+ - **Summary:** Built a system that can stitch multiple images into a panorama. Implemented feature matching, RANSAC algorithm, bilinear interpolation and image warping.
+ - **Keywords:**  Homography, RANSAC, Image warping, Panorama, Image stitching
