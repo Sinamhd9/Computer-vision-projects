@@ -10,15 +10,15 @@ The method is described in this [https://link.springer.com/content/pdf/10.1007/s
 
 ## Overview
   <p align="center">
-       <img src="./data/frame0.png" alt="Overview" width="25%">
-       <img src="./data/frame1.png" alt="Overview" width="25%">
-       <img src="./img/flow.gif" alt="Overview" width="50%">
+       <img src="./data/frame0.png" alt="Overview" width="20%">
+       <img src="./data/frame1.png" alt="Overview" width="20%">
+       <img src="./img/flow.gif" alt="Overview" width="40%">
  </p>
 
 The required steps to implement this algorithm are [https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf](Reference paper):
 
 - Forward warping flow (from frame0 to frame1) to a position t in the middle of the 2 frames
 - Fill any holes in ut using a simple outside-in strategy
-- Estimate occlusions masks O<sub>0</sub>(x) and O_1(x), where Oi(x) = 1 means pixel x in image Ii is not visible in the
+- Estimate occlusions masks O<sub>0</sub>(x) and O<sub>1</sub>(x), where O<sub>i</sub>(x) = 1 means pixel x in image Ii is not visible in the
 respective other image.
 - Compute the colors of the interpolated pixels by inverse-warping frame 0 and frame 1 to the postion t based on the forwarded-warped flow iflow at t
