@@ -9,12 +9,8 @@ This system can be used to correct/change the color in an image by choosing an a
 Please note that no ready to use OpenCV function is used except for loading and displaying the images. 
 
 ## Overview
- <div>
   <p align="center">
        <img src="./data/source2.png" alt="Overview" width="40%">
        <img src="./data/target2.png" alt="Overview" width="40%">
- </p>
-   <p align="center">
        <img src="./img/result_LAB.png" alt="Overview" width="80%">
  </p>
-</div>
