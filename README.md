@@ -78,9 +78,17 @@ You can use the link in each project to directly open and run the codes in googl
            <br><a href="./Homography-based%20Image%20Stitching" name="stitch_code">(code)</a>
       </p>
     </th>  
+     <th>
+      <p align="center">
+           <a> <img src="./Video%20Frame%20Interpolation/img/frame0.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/data/frame1.png" alt="Overview" width="40%" height="40%"></a>
+           <a> <img src="./Video%20Frame%20Interpolation/img/flow.gif" alt="Overview" width="80%" height="80%"></a>
+      </p>
+           <br>9: Video Frame Interpolation
+           <br><a href="./Video%20Frame%20Interpolation" name="interp_code">(code)</a>
+      </p>
+    </th>  
     </tr>
- 
-  
 </table>
 
 --- 
@@ -103,7 +111,7 @@ You can use the link in each project to directly open and run the codes in googl
  - **Keywords:**  Keras, Image augmentation, Transfer learning, Pre-trained network, CNN
 
 #### [5 - Class-discriminative saliency maps using Grad-CAM](Grad-CAM%20saliency%20maps)
- - **Summary:** Implemented the original Grad-CAM paper with a pretrained VGG-16 model. Visualized the results and their respective predicted class on the different test cases with a short discussion. 
+ - **Summary:** Implemented the original Grad-CAM [paper](https://arxiv.org/pdf/1610.02391.pdf) with a pretrained VGG-16 model. Visualized the results and their respective predicted class on the different test cases with a short discussion. 
  - **Keywords:**  Keras, Gradient flow, Saliency maps, Grad-CAM, CNN
  
  #### [6 - Generative adversarial networks (GAN)](Generative%20adversarial%20networks)
@@ -117,3 +125,7 @@ You can use the link in each project to directly open and run the codes in googl
  #### [8 - Homography-based Image Stitching](Homography-based%20Image%20Stitching)
  - **Summary:** Built a system that can stitch multiple images into a panorama. Implemented feature matching, RANSAC algorithm, bilinear interpolation and image warping.
  - **Keywords:**  Homography, RANSAC, Image warping, Panorama, Image stitching
+
+ #### [9 - Video Frame Interpolation](Video%20Frame%20Interpolation)
+ - **Summary:** Built a system that can interpolate to consecutive video frames and generate the middle frame. Implemented the required steps described in the [paper](https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf)
+ - **Keywords:**  Frame interpolation, Video processing, Optical flow.
