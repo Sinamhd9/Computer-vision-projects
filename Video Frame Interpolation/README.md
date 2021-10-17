@@ -8,7 +8,7 @@ The goal is to develop a video frame interpolation tool that can double the rate
 
 The method is described in this [paper](https://link.springer.com/content/pdf/10.1007/s11263-010-0390-2.pdf)
   <p align="center">
-       <img src="./data/flow.JPEG" alt="Overview" width="23%">
+       <img src="./img/flow.JPEG" alt="Overview" width="23%">
  </p>
 ## Overview
   <p align="center">
