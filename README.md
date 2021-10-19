@@ -1,5 +1,5 @@
 # Computer-vision-projects
-In this repository I am sharing my **codes** for some projects and assignments of **the graduate level courses (Intro to computer vision, deep learning and computer vision)** I took during my PhD.
+In this repository I am sharing my codes for the projects of the graduate level courses (Intro to computer vision, deep learning and computer vision) I took during my PhD.
 
 I hope you find it useful! :-)
 
